@@ -1,49 +1,40 @@
 # Berkeley-CS61A
 
-## Table of Contents
-
-- [Berkeley-CS61A](#berkeley-cs61a)
-  - [Table of Contents](#table-of-contents)
-  - [About ](#about-)
-  - [Getting Started ](#getting-started-)
-    - [Prerequisites](#prerequisites)
-    - [Installing](#installing)
-  - [Usage ](#usage-)
-
-## About <a name = "about"></a>
-
+## About
 Muller's learning track on Berkeley-CS61A.
+- [Textbook (SICP for python)](https://www.composingprograms.com/)
+- [Course Website](https://cs61a.org/)
+- [Online editor (support scheme, SQL and python)](https://code.cs61a.org)
 
-## Getting Started <a name = "getting_started"></a>
+## Calendar Overview
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+| Lecture                          | Lab & Discussion                                   | Homework                                       |
+|----------------------------------|--------------------------------------------------|-----------------------------------------------|
+| Welcome                          | [Disc 00: Getting Started](#) ([Solutions](#))   | None                                          |
+|                                  | [Lab 00: Getting Started](#) ([Solutions](#))    | Due Wed 9/4                                   |
+| Functions                        | [Lab 01: Functions](#) ([Solutions](#))          | [HW 01: Functions, Control](#) ([Solutions](#)) |
+|                                  |                                                  | Due Mon 9/9                                   |
+| Control                          | [Disc 01: Control, Environment Diagrams](#) ([Solutions](#)) | None                                          |
+| Higher-Order Functions           | [Lab 02: Higher-Order Functions, Lambda Expressions](#) ([Solutions](#)) | [HW 02: Higher-Order Functions](#) ([Solutions](#)) |
+|                                  |                                                  | Due Thu 9/12                                  |
+| Environments                     | None                                             | None                                          |
+| Functional Abstraction           | [Disc 02: Environment Diagrams, Higher-Order Functions](#) ([Solutions](#)) ([Video](#)) | None                                          |
+| Function Examples                | None                                             | None                                          |
+| Midterm 1 (8pm-10pm)             | None                                             | None                                          |
+| Recursion                        | [Disc 03: Recursion](#) ([Solutions](#))         | None                                          |
 
-### Prerequisites
+---
 
-What things you need to install the software and how to install them.
+## Notes & Code
 
-```
-Give examples
-```
+This section will be updated with notes and code files linked directly to their respective lectures and discussions.
 
-### Installing
+---
 
-A step by step series of examples that tell you how to get a development env running.
+## Homework
 
-Say what the step will be
+All homework files and solutions are listed below for easy access. Ensure timely submission based on due dates in the calendar above.
 
-```
-Give the example
-```
+- [HW 01: Functions, Control](#) ([Solutions](#))
+- [HW 02: Higher-Order Functions](#) ([Solutions](#))
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## Usage <a name = "usage"></a>
-
-Add notes about how to use the system.
