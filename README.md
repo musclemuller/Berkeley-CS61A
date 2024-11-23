@@ -1,6 +1,6 @@
 # Berkeley-CS61A
 
-![Berkeley-CS61A Logo](./Images/logo.png)  
+![Berkeley-CS61A Logo](./Images/P5R.png)  
 
 ## About
 Muller's learning track on Berkeley-CS61A.
